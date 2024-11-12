@@ -1,0 +1,24 @@
+{
+  "technologies": [
+    {
+      "id": "1",
+      "title": "Frontend",
+      "skills": ["React", "Angular", "TypeScript", "Tailwind CSS", "JavaScript"]
+    },
+    {
+      "id": "2",
+      "title": "Backend and Cloud",
+      "skills": ["Java", "Spring Boot", "Kafka", "Node.js", "Python", "GraphQL", "REST APIs"]
+    },
+    {
+      "id": "3",
+      "title": "Database",
+      "skills": ["PostgreSQL", "MongoDB", "Firebase"]
+    },
+    {
+      "id": "4",
+      "title": "DevOps",
+      "skills": ["Docker", "AWS", "CI/CD", "Linux"]
+    }
+  ]
+}
