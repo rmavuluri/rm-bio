@@ -1,0 +1,17 @@
+{"projects": [
+    {
+      "id": "4wq7yvrji",
+      "title": "FULCRUM",
+      "description": "Develop an enterprise event driven platform that supports digital businesses in handling real-time intelligence and responsiveness, event-based interaction between the application and across the line of business. event-driven platform leverages a dynamic blend of AWS services and modern technologies, centralizing around AWS MSK for robust data streaming. Key components include AWS IAM for security, AWS Glue for data management, and Security Manager for enhanced protection. AWS CloudWatch and Event Bridge facilitate effective monitoring and event handling, while AWS Lambda offers serverless compute capabilities. The integration of Apigee enables secure external client communications with your MSK cluster. ECS Fargate simplifies container management, and the inclusion of Grafana, Prometheus, and Cruise Control ensures comprehensive system monitoring and management. Development is streamlined with Spring Boot and Maven, supported by AWS Certificate Manager for secure connections.",
+      "tech": "Core Java, J2EE, Spring Boot, NodeJS, Python, Angular, JSON, Maven, Apigee, Docker, Terraform, MSK, EC2, ECS, S3, IAM, Lambda, AWS Glue, Amazon Event Bridge, Cloud Watch, Kafka, Gitlab, VS Code, STS",
+      "duration": "APR 2022 - Till Date",
+      "company": "Tata Consultancy Services Ltd",
+      "client": "Ally Financials",
+      "role": "Delivery Lead",
+      "location": "FL, USA",
+      "icon": "Globe",
+      "responsibilities": "1.\tLed a team of software engineers in the development of a new product line.\n2.\tCoordinated with cross-functional teams to deliver projects on time and within budget, resulting in improved team efficiency and customer satisfaction.\n3.\tProvided mentorship and guidance to team members to improve their technical skills\n4.\tDeveloping terraform scripts for multiple repositories.\n5.\tOnboarding producer and consumer applications to the Fulcrum platform \n6.\tCreated Onboarding App using Angular 17 and NodeJS\n7.\tDeveloped and maintained restful APIS using Express.js. \n8.\tImplemented async programming techniques using promises and async/await to handle complex workflows and improve application responsiveness. \n9.\tUtilized TypeScript to enhance code quality and maintainability in Node JS projects, reducing runtime errors and improving developer productivity\n10.\tAssessing Cluster performance through peak, double peak, and endurance loads using Kafka performance test scripts\n11.\tConfiguring source, event bridge, and S3 sink connectors, creating topics, and providing read and write access based on application requirements.\n12.\tCreating IAM roles and policies\n13.\tManaging Amazon MSK, Glue Registry, streams, monitoring, producer, and consumer components\n14.\tEnsuring seamless integration with other Amazon cloud services\n15.\tBeing accountable for release artifacts\n16.\tAssigning JIRA stories and overseeing offshore/onsite delivery\n17.\tProviding support for the platform and tools\n"
+    }
+  ]
+}
+

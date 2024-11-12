@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
-import { ArrowRight } from 'lucide-react';
 import Sidebar from './components/Sidebar';
 import WelcomeMessage from './components/WelcomeMessage';
 import ScrollButtons from './components/ScrollButtons';
